@@ -1,0 +1,13 @@
+{
+    "name": "mkryvarot/hexlet-php",
+    "description": "first hxlet php",
+    "type": "project",
+    "authors": [
+        {
+            "name": "zlipknot",
+            "email": "zlipknot.misha@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
